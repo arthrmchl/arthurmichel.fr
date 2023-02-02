@@ -1,7 +1,3 @@
-The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool.
-https://tailwindcss.com/docs/installation
+# *arthurmichel.fr*
 
-## Start the Tailwind CLI build process with this command
-Run the CLI tool to scan your template files for classes and build your CSS.
-
-> npx tailwindcss -i ./src/tailwind.css -o ./public/assets/css/styles.css --watch
+Welcome 👋🏻 to my personal GitHub repository where I host the code for my personal resume website. This repository showcases my technical skills and latest projects, making it easy for you to explore and discover my abilities. I am excited to share my professional journey through this code and hope that you find it insightful and inspiring. 🙇🏻
