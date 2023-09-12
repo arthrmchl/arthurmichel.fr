@@ -1391,3 +1391,7 @@ video {
 .li-exp {
 	list-style-type: disc;
 }
+
+.ul-exp {
+	list-style-position: inside;
+}
