@@ -1,13 +1,4 @@
-<p>
-    <pre align="center">
-            _   _                          _      _          _    __      
-  __ _ _ __| |_| |__  _   _ _ __ _ __ ___ (_) ___| |__   ___| |  / _|_ __ 
- / _` | '__| __| '_ \| | | | '__| '_ ` _ \| |/ __| '_ \ / _ \ | | |_| '__|
-| (_| | |  | |_| | | | |_| | |  | | | | | | | (__| | | |  __/ |_|  _| |   
- \__,_|_|   \__|_| |_|\__,_|_|  |_| |_| |_|_|\___|_| |_|\___|_(_)_| |_|   
-    </pre>
-</p>
-<hr>
+<h1>𝙖𝙧𝙩𝙝𝙪𝙧𝙢𝙞𝙘𝙝𝙚𝙡.𝙛𝙧</h1>
 
 [![pages-build-deployment](https://github.com/arthrmchl/arthurmichel.fr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/arthrmchl/arthurmichel.fr/actions/workflows/pages/pages-build-deployment)
 
