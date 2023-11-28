@@ -890,9 +890,6 @@ video {
   --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-  border: solid;
-  border-color: #30363d;
-  border-width: thin;
 }
 
 .transition {
@@ -961,18 +958,12 @@ video {
   --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-  border: solid;
-  border-color: #30363d;
-  border-width: thin;
 }
 
 @media (prefers-color-scheme: dark) {
   .block-section {
     --tw-bg-opacity: 1;
     background-color: rgb(22 27 34 / var(--tw-bg-opacity));
-    border: solid;
-    border-color: #30363d;
-    border-width: thin;
   }
 }
 
