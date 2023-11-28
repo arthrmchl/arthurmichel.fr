@@ -1338,12 +1338,12 @@ video {
 
   .dark\:bg-slate-900 {
     --tw-bg-opacity: 1;
-    background-color: rgb(13 17 23 / var(--tw-bg-opacity));
+    background-color: rgb(14 14 16 / var(--tw-bg-opacity));
   }
 
   .dark\:bg-slate-800 {
     --tw-bg-opacity: 1;
-    background-color: rgb(22 27 34 / var(--tw-bg-opacity));
+    background-color: rgb(24 24 27 / var(--tw-bg-opacity));
   }
 
   .dark\:text-gray-800 {
