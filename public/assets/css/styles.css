@@ -949,7 +949,9 @@ video {
 
 @media (min-width: 640px) {
   .main-container {
-    padding: 1.25rem;
+    padding-top: 1.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 }
 
